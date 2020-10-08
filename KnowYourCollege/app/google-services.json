@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "861721672248",
+    "firebase_url": "https://kyc-12345.firebaseio.com",
+    "project_id": "kyc-12345",
+    "storage_bucket": "kyc-12345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861721672248:android:02c217166421e863d304cd",
+        "android_client_info": {
+          "package_name": "com.example.kyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861721672248-2kf12m4bh2jk953to1p1oejscrvbrqbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFCG70xy8zxxR2tPdKGseRg_DrDjbVRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861721672248-2kf12m4bh2jk953to1p1oejscrvbrqbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861721672248:android:d1890da55de4992ed304cd",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861721672248-2kf12m4bh2jk953to1p1oejscrvbrqbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFCG70xy8zxxR2tPdKGseRg_DrDjbVRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861721672248-2kf12m4bh2jk953to1p1oejscrvbrqbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
